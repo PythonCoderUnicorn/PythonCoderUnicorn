@@ -1,4 +1,4 @@
 
 ![Zane's GitHub Banner](./assets/Github-banner.png)
 
-![Last Modified](/aur/last-modified/:Masters_ML)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/StarTrek_Lt)
