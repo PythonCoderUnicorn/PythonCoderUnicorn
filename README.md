@@ -3,7 +3,7 @@
 
 
 # Hello World! 👋 
----
+
 
 I'm all into Data Science with a passion for learning, I most enjoy Data Visualizations and 
 generative artwork.
