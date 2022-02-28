@@ -1,11 +1,12 @@
 
 <!-- ![](./assets/github.png) -->
-<img width='80%' src='https://user-images.githubusercontent.com/55933131/155902081-5af6c760-c6fb-4b1e-92bc-3aec00846e39.gif'>
+<!-- <img width='80%' src='https://user-images.githubusercontent.com/55933131/155902081-5af6c760-c6fb-4b1e-92bc-3aec00846e39.gif'> -->
 
 <!-- ![myname](https://user-images.githubusercontent.com/55933131/155902081-5af6c760-c6fb-4b1e-92bc-3aec00846e39.gif) -->
 
 
 
+![helloMyname](https://user-images.githubusercontent.com/55933131/156023950-4fedfa9a-3d42-41d9-93b8-fe6a67cf37ab.gif)
 
 # Hello World! 👋 
 
