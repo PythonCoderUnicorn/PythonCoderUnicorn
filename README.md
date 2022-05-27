@@ -24,7 +24,7 @@ language of R.
 
 
 - :rainbow: **Pronouns**: She/They
-- :computer: **Coding**: R, Python, SQL
+- :computer: **Coding**: R, Python, Javascript, SQL
 - :biking_woman: **Hobbies**: FitBit, designing R hexagon logos
 
 Say hi
