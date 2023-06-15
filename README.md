@@ -17,23 +17,17 @@ generative artwork.
 Working with data is the 21 Century gold mining, there's so much out there waiting to be
 explored! 
 
-Many of my repositories are split between Python code and R which is the language that I 
-love most. My R repos are #TidyTuesday weekly submissions and my ongoing learning in the
-language of R.
+
 
 
 
 - :rainbow: **Pronouns**: She/They
-- :computer: **Coding**: R, Python, Javascript, SQL
-- :biking_woman: **Hobbies**: FitBit, designing R hexagon logos
-
-Say hi
----
-[![alt text][1.1]][1]
+- :computer: **Coding**: R, Python
+- :biking_woman: **Hobbies**: learning tech
 
 
 <!-- social icons-->
-[1.1]: https://www.iconsdb.com/icons/download/barbie-pink/twitter-4-32.png
+
 
 <!-- links to social-->
-[1]: https://twitter.com/StarTrek_Lt
+
